@@ -1,0 +1,71 @@
+/* defaultForm box conatins the title and mention */
+.ImgBox {
+  position: absolute;
+  width: 320px;
+  height: 448px;
+  left: 32px;
+  top: 32px;
+}
+.rightFormBox {
+  position: absolute;
+  width: 332px;
+  height: 418px;
+  left: 400px;
+  top: 47px;
+}
+/* Calculate your tax */
+.rightFormBox-title {
+  position: absolute;
+  width: 254px;
+  height: 38px;
+  left: 16px;
+  top: 16px;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 38px;
+}
+.rightFormBox-mention {
+  position: absolute;
+  height: 39px;
+  width: 300px;
+  left: 16px;
+  top: 70px;
+  border-radius: 5px;
+  border: 2px solid rgba(132, 119, 201, 1);
+  background: rgba(255, 255, 255, 1);
+  box-shadow: 0px 4px 8px 0px rgba(231, 231, 255, 1);
+  color: #000;
+}
+/* inside of mention box */
+.rightFormBox-mention-input-icon {
+  position: absolute;
+  font-size: 21px;
+  left: 12px;
+  top: 6px;
+  border-radius: 0px;
+  color: #8477c9;
+  margin-right: 31px;
+}
+/* inside of mention box */
+.rightFormBox-mention p {
+  position: absolute;
+  left: 43px;
+  top: 10px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 14px;
+
+  color: #8477c9;
+}
+
+/* InputForms box style */
+.TaxInputForms {
+  position: absolute;
+  width: 300px;
+  height: 218px;
+  margin-right: 0px;
+  left: 16px;
+  top: 125px;
+  bottom: 75px;
+}

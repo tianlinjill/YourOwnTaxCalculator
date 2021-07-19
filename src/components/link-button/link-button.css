@@ -1,0 +1,16 @@
+.link-button {
+  border: none;
+  cursor: pointer;
+  width: 168px;
+  height: 17px;
+  font-family: Lato;
+  font-style: initial;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 17px;
+  text-decoration-line: underline;
+  color: #8477c9;
+  margin: 0;
+  padding: 0;
+  background: white;
+}
